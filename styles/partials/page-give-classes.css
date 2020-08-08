@@ -51,7 +51,7 @@
 
 #page-give-classes fieldset legend button:hover{
     color: var(--color-primary-dark);
-   
+    /*transform: translatey(-5px);*/
 }
 
 
@@ -62,7 +62,7 @@
 
 #page-give-classes .input-block+.input-block,
 #page-give-classes .input-block+.textarea-block,
-#page-give-classes .select-block+ .input-block{
+#page-give-classes .select-block+.input-block{
     margin-top: 2.4rem;
 
 }
