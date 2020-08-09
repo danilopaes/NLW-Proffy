@@ -38,8 +38,8 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- <s>Node.js</s> (próximas aulas 🚧)
-- <s>Nunjucks</s> (próximas aulas 🚧)
+- Node.js
+- Nunjucks
 
 --- 
 
@@ -47,9 +47,9 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+git clone https://github.com/danilopaes/NLW-Proffy
 # Entrar no diretório
-cd proffy-discovery
+cd NLW-Proffy
 ```
 
 Pode usar qualquer extensão ou ferramenta no seu editor para criar um servidor local, como por exemplo o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
