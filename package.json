@@ -1,0 +1,20 @@
+{
+  "name": "NLW-Proffy",
+  "version": "1.0.0",
+  "description": "Sua Plataforma de Estudos Online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilopaes/NLW-Proffy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilopaes/NLW-Proffy/issues"
+  },
+  "homepage": "https://github.com/danilopaes/NLW-Proffy#readme"
+}
